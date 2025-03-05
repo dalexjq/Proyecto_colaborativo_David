@@ -1,4 +1,5 @@
 📌 Proyecto Colaborativo
+
 📖 Descripción
 Crear un proyecto web colaborativo utilizando Git y GitHub, aplicando los conocimientos adquiridos en clase, empleando la máxima cantidad de comandos vistos. Creamos una carpeta que contenga el index en la raíz, una carpeta css y una javascript y cada colaborador se crea una rama, trabaja en ella y al terminar hace el pull request y lo mergea con la rama principal, notificando con commits cada cambio.
 
