@@ -3,19 +3,17 @@
 📖 Descripción
 Crear un proyecto web colaborativo utilizando Git y GitHub, aplicando los conocimientos adquiridos en clase, empleando la máxima cantidad de comandos vistos. Creamos una carpeta que contenga el index en la raíz, una carpeta css y una javascript y cada colaborador se crea una rama, trabaja en ella y al terminar hace el pull request y lo mergea con la rama principal, notificando con commits cada cambio.
 
-📁 Estructura del Proyecto
-/proyecto_colaborativo_ddavid
-│── index.html    # Archivo principal de la web
-│── README.md     # Documentación del proyecto
-│── /css
-│   ├── style.css  # Archivo de estilos
-│── /img  # Carpeta para imágenes
-│   ├── favicon.ico  # Ícono de la web
-│   ├── banner.png
-│   ├── favicon-16x16.png
-│   ├── gitbash.jpg
-│   ├── github_logo.png
-│   ├── gitlogo.png
+/proyecto_colaborativo_david           # Raíz del proyecto
+│── index.html                        # Archivo principal de la web
+│── README.md                         # Documentación del proyecto (explicación del proyecto, instrucciones, etc.)
+│── /assets                           # Carpeta para los recursos estáticos como imágenes, iconos, etc.
+│   ├── /img                          # Carpeta para las imágenes
+│   │   ├── banner.png                # Banner de la página web
+│   │   ├── favicon.ico               # Ícono de la web (favicon)
+│   │   ├── favicon-16x16.png         # Favicon en tamaño pequeño
+│   │   ├── gitbash.jpg               # Imagen representativa de Git Bash
+│   │   ├── github_logo.png           # Logo de GitHub
+│   │   ├── gitlogo.png               # Logo de Git
 
 🚀 Tecnologías Utilizadas
 HTML5
